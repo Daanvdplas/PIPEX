@@ -1,6 +1,6 @@
 # Pipex
 
-Mimic the unix pipe mechanism
+Mimic the unix pipe mechanism.
 
 ## How to run
 
